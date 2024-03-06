@@ -20,7 +20,7 @@
 * * *
 ### Навыки
 **Hard skills:**
-Front-end:
+Front-end:  
   - Javascript & Typescript
   - HTML & PUG
   - CSS & SASS, LESS, PostCSS
@@ -29,13 +29,15 @@ Front-end:
   - Webpack, Gulp & Vite
   - ESLint
   - Анимации: GSAP, ScrollMagic, AOS
-Back-end:
+    
+Back-end:  
   - Wordpress & WooCommerce
   - Core PHP
   - Shopify кастомные темы
   - Node.js
   - REST API
-Другие навыки:
+
+Другие навыки:  
   - Git: Github & Bitbucket
   - Figma
   - Basic SEO & UX-design
