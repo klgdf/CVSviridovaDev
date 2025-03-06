@@ -5,7 +5,7 @@
 **Telegram (preferred connection):** @sviridovafl   
 **Phone:** +995 571 30 35 92 (10 a.m. – 16 p.m. Moscow time)   
 **E-mail:** sss.mr.vk@gmail.com   
-[LinkedIn](https://www.linkedin.com/in/flsviridova/)  
+[LinkedIn](https://www.linkedin.com/in/sviridovafl/)  
 [Github](https://github.com/klgdf)  
 * * *
 ### Summary
