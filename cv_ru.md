@@ -7,7 +7,7 @@
 **E-mail:** sss.mr.vk@gmail.com   
 **На связи:** Пн-Пт 9:00-16:00 (GMT+3 - Московское время)  
 
-[LinkedIn](https://www.linkedin.com/in/flsviridova/)  
+[LinkedIn](https://www.linkedin.com/in/sviridovafl/)  
 [Github](https://github.com/klgdf)
 * * *
 ### Резюме
